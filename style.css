@@ -1,0 +1,67 @@
+nav {
+  background-color: rgb(105, 153, 241);
+  margin: 10px;
+  padding: 20px;
+  width: auto;
+  height: 20px;
+}
+a {
+  padding: 30px;
+}
+a:hover {
+  color: aliceblue;
+}
+/*
+-----ans2-------
+*/
+img {
+  width: 300px;
+  margin: 20px;
+  border-radius: 20%;
+  height: 220px;
+}
+div {
+  border: 1px solid;
+  border-radius: 20%;
+  width: 350px;
+  background-color: lightgray;
+  height: 340px;
+}
+div p {
+  padding: 20px;
+}
+/*
+-----ans3-------
+*/
+.nav2 {
+  background-color: rgb(105, 153, 241);
+  margin: 10px;
+  padding: 20px;
+  width: auto;
+  height: 20px;
+}
+.home {
+  border: 1px dotted blue;
+  padding: 1px;
+  margin: 20px;
+}
+.about {
+  border: 1px solid red;
+  padding: 1px;
+  margin: 20px;
+}
+.contact {
+  border: 1px dashed yellow;
+  padding: 1px;
+  margin: 20px;
+}
+.Block {
+  border: groove 1px brown;
+  padding: 1px;
+  margin: 20px;
+}
+.login {
+  border: ridge 1px orange;
+  padding: 1px;
+  margin: 20px;
+}
